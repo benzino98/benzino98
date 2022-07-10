@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/benzino98"><img src="https://api.daily.dev/devcards/30ded5d94e8e42568a9e25b5e3ed7166.png?r=9dx" width="400" alt="Benjamin Nuhu's Dev Card"/></a>
+<a href="https://app.daily.dev/benzino98"><img src="https://github.com/benzino98/benzino98/blob/main/devcard.svg" width="400" alt="Benjamin Nuhu's Dev Card"/></a>
 
 
 # 💫 About Me:
